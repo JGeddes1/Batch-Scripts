@@ -12,6 +12,7 @@ This repository contains various batch scripts I've created for personal and pro
 - **Create_GIS_Images_without_open_QGIS.bat**: A script to generate GIS preview and thumb images without needing to open QGIS. 
 - **backup_apache_web_config.bat**: Automates the backup of Apache web server configuration files.
 - **backup_cv.bat**: Helps in backing up CV files efficiently.
+- **backup_userspace.bat**: Helps in backing up User Space files efficiently.
 
 ## Usage
 
